@@ -34,7 +34,7 @@ dependencies:
       ref: master
 
 dependency_overrides:
-  crypto: ^3.0.0
+  crypto:
   hex: ^0.2.0
   bs58check_dart: ^2.0.0+1
 dev_dependencies:

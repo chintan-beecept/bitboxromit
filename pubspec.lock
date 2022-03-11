@@ -20,12 +20,10 @@ packages:
   bip39:
     dependency: "direct main"
     description:
-      path: "."
-      ref: master
-      resolved-ref: "91c63bf997167bb947ee1d5d45df3bf0e8ad88b8"
-      url: "https://github.com/RomitRadical/bip39.git"
-    source: git
-    version: "1.0.3"
+      name: bip39
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.6"
   boolean_selector:
     dependency: transitive
     description:
